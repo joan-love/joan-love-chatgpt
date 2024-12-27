@@ -1,7 +1,7 @@
 # 【国内ChatGPT中文版】支持ChatGPT-4、4o，国内无限使用 【12月最新更新】 
 
 > Update：2024/12/27 <br />
-> Author：gptchinese 
+> Author：gptchinese  
 
 想不想在国内使用 **ChatGPT中文版？支持ChatGPT-4，无限使用GPT-4o和o1-preview** <br /> 
 <br /> 
