@@ -1,11 +1,11 @@
 # 【国内ChatGPT中文版】支持ChatGPT-4、4o，国内无限使用 【1月最新更新】 
 
-> Update：2025/02/10   
+> Update：2025/02/11   
 > Author：gptchinese  
 
-想不想在国内使用 **ChatGPT中文版？支持ChatGPT-4，无限使用GPT-4o和o1-preview** <br /> 
-<br /> 
-本项目专门为大家整理了一些国内可用的 **ChatGPT中文版**，**无需翻墙就能用上~** <br />
+想不想在国内使用 **ChatGPT中文版？支持ChatGPT-4，无限使用GPT-4o和o1、o3**   
+
+本项目专门为大家整理了一些国内可用的 **ChatGPT中文版**，**无需翻墙就能用上~**
 
 ## ChatGPT中文版：
 
