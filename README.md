@@ -32,8 +32,24 @@
 - [https://ai.bearvision.cn/](https://ai.bearvision.cn/) - ChatGPT中文版，通用ChatGPT,deepseek,支持 GPT4、4o、o1、o3全模型，支持文件分析，价格价格便宜、邮箱手机号登录
 - [https://chat.lify.vip/](https://chat.lify.vip/) - ChatGPT镜像网站，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://guide1.lanjig.ai/) - ChatGPT镜像网站，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- 
+## 国内自研模型：
 
+-[https://yiyan.baidu.com/] - 文心一言，由百度出品。-
 
+-[https://tongyi.aliyun.com/] - 通义千问，由阿里出品。-
+
+-[https://techday.sensetime.com/] - 商量，由商汤科技出品。-
+
+-[https://tiangong.kunlun.com/] - 天工 AI 助手，天工大模型。-
+
+-[https://xinghuo.xfyun.cn/] - 讯飞星火认知大模型。-
+
+-[https://moss.fastnlp.top/] - Moss，由复旦团队出品。-
+
+-[https://www.so.com/zt/invite.html] - 360 智脑，由360出品。-
+
+-[https://github.com/THUDM/ChatGLM-6B] - ChatGLM-6B，由清华大学唐杰团队开发。-
 ## 常见问题答疑
 
 ### 1. 使用镜像网站是否需要翻墙？
