@@ -1,6 +1,6 @@
 # 2025最新GPT国内免费版镜像站及中文版直连 支持ChatGPT-4、4o，国内无限使用 【3月最新更新】 
 
-> Update：2025/03/05   
+> Update：2025/03/19   
 > Author：joan-love 
 
 想不想在国内使用 **ChatGPT中文版？支持ChatGPT-4，无限使用GPT-4o和o1、o3**   
