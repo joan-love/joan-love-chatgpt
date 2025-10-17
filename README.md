@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;总结：推荐使用 ChatGPT中文版镜像网站。
 
 ## 国内可用的 ChatGPT中文版：
-- [https://ai.bearvision.cn/](https://ai.bearvision.cn/) - ChatGPT中文版，通用ChatGPT,deepseek,支持 GPT4、4o、o1、o3全模型，支持文件分析，价格价格便宜、邮箱手机号登录
+- [https://ai.xycoc.cn/](https://ai.xycoc.cn/) - ChatGPT中文版，通用ChatGPT,deepseek,支持 GPT4、4o、o1、o3全模型，支持文件分析，价格价格便宜、邮箱手机号登录
 - [https://chat.lify.vip/](https://chat.lify.vip/) - ChatGPT镜像网站，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://guide1.lanjig.ai/) - ChatGPT镜像网站，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - 
